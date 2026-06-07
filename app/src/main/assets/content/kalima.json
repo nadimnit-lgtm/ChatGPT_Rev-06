@@ -1,0 +1,85 @@
+{
+  "title": "Kalima",
+  "subtitle": "verified core declarations and dhikr",
+  "categories": [
+    {
+      "id": "all",
+      "label": "Verified Kalima",
+      "items": [
+        {
+          "name": "First Kalima — Tayyibah",
+          "ar": "لَا إِلَهَ إِلَّا اللهُ، مُحَمَّدٌ رَسُولُ اللهِ",
+          "tr": "La ilaha illallahu, Muhammadur Rasulullah.",
+          "en": "There is none worthy of worship except Allah; Muhammad is the Messenger of Allah.",
+          "src": "Core testimony of Islam",
+          "verified": true,
+          "reference": "Hadith-based testimony",
+          "grade": "Verified",
+          "dhikrType": "Kalima",
+          "collection": "Kalima"
+        },
+        {
+          "name": "Second Kalima — Shahadah",
+          "ar": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+          "tr": "Ash-hadu an la ilaha illallahu wahdahu la sharika lah, wa ash-hadu anna Muhammadan abduhu wa rasuluh.",
+          "en": "I bear witness that there is none worthy of worship except Allah alone with no partner, and I bear witness that Muhammad is His servant and Messenger.",
+          "src": "Core shahadah wording",
+          "verified": true,
+          "reference": "Hadith-based testimony",
+          "grade": "Verified",
+          "dhikrType": "Kalima",
+          "collection": "Kalima"
+        },
+        {
+          "name": "Third Kalima — Tamjeed",
+          "ar": "سُبْحَانَ اللهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللهُ، وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+          "tr": "Subhanallah, walhamdu lillah, wa la ilaha illallah, wallahu akbar, wa la hawla wa la quwwata illa billah.",
+          "en": "Glory be to Allah, praise be to Allah, there is none worthy of worship except Allah, Allah is the Greatest, and there is no might nor power except with Allah.",
+          "src": "Sahih Muslim / Sahih al-Bukhari dhikr phrases",
+          "verified": true,
+          "reference": "Bukhari; Muslim",
+          "grade": "Sahih",
+          "dhikrType": "Kalima",
+          "collection": "Kalima"
+        },
+        {
+          "name": "Fourth Kalima — Tawheed",
+          "ar": "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "tr": "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamd, wa huwa ala kulli shay’in qadir.",
+          "en": "There is none worthy of worship except Allah alone with no partner. His is dominion and praise, and He is able to do all things.",
+          "src": "Sahih al-Bukhari / Sahih Muslim",
+          "verified": true,
+          "reference": "Bukhari; Muslim",
+          "grade": "Sahih",
+          "dhikrType": "Kalima",
+          "collection": "Kalima"
+        },
+        {
+          "name": "Fifth Kalima — Istighfar",
+          "ar": "أَسْتَغْفِرُ اللهَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ، وَأَتُوبُ إِلَيْهِ",
+          "tr": "Astaghfirullahal-ladhi la ilaha illa Huwal-Hayyul-Qayyum wa atubu ilayh.",
+          "en": "Forgiveness is sought from Allah, besides whom there is none worthy of worship, the Ever-Living, the Sustainer, and repentance is made to Him.",
+          "src": "Abu Dawud / Tirmidhi / Al-Hakim",
+          "verified": true,
+          "reference": "Riyad as-Salihin 1874",
+          "grade": "Sahih / Hasan",
+          "dhikrType": "Kalima",
+          "collection": "Kalima",
+          "timing": "General supplication unless a specific timing is stated in the source"
+        },
+        {
+          "name": "Sixth Kalima — Protection from Shirk",
+          "ar": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ",
+          "tr": "Allahumma inni a’udhu bika an ushrika bika wa ana a’lam, wa astaghfiruka lima la a’lam.",
+          "en": "O Allah, refuge is sought in You from knowingly associating anything with You, and Your forgiveness is sought for what is not known.",
+          "src": "Saheeh al-Jami 3731",
+          "verified": true,
+          "reference": "Saheeh al-Jami 3731",
+          "grade": "Sahih",
+          "dhikrType": "Kalima",
+          "collection": "Kalima"
+        }
+      ]
+    }
+  ]
+}

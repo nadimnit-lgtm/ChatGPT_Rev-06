@@ -1,0 +1,444 @@
+{
+  "title": "Azkar",
+  "subtitle": "verified daily remembrance",
+  "categories": [
+    {
+      "id": "morning",
+      "label": "Morning Azkar",
+      "items": [
+        {
+          "ar": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+          "tr": "Allahu la ilaha illa Huwal-Hayyul-Qayyum...",
+          "en": "Allah, there is none worthy of worship except Him, the Ever-Living, the Sustainer. Neither drowsiness nor sleep overtakes Him. His is whatever is in the heavens and the earth.",
+          "src": "Quran 2:255 - Ayat al-Kursi",
+          "verified": true,
+          "reference": "Quran 2:255",
+          "grade": "Quran"
+        },
+        {
+          "ar": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
+          "tr": "Asbahna wa asbahal-mulku lillah...",
+          "en": "The morning has come and dominion belongs to Allah. Praise is for Allah. O Lord, protection is sought from laziness, evil old age, punishment of the Fire, and punishment of the grave.",
+          "src": "Sahih Muslim - Morning remembrance",
+          "verified": true,
+          "reference": "Sahih Muslim 2723",
+          "grade": "Sahih"
+        },
+        {
+          "ar": "اللَّهُمَّ أَنْتَ رَبِّي، لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي، فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+          "tr": "Allahumma anta Rabbi, la ilaha illa Anta, khalaqtani wa ana abduka, wa ana ala ahdika wa wadika mastata’tu, a’udhu bika min sharri ma sana’tu, abu’u laka bini’matika alayya, wa abu’u bidhanbi, faghfir li, fa innahu la yaghfirudh-dhunuba illa Anta.",
+          "en": "O Allah, You are my Lord. There is none worthy of worship except You. You created me and I am Your servant. I remain upon Your covenant and promise as much as I can. I seek refuge in You from the evil of what I have done. I acknowledge Your favour upon me and admit my sin, so forgive me, for none forgives sins except You.",
+          "src": "Sahih al-Bukhari 6306",
+          "verified": true,
+          "reference": "Sahih al-Bukhari 6306",
+          "grade": "Sahih",
+          "name": "Sayyidul Istighfar",
+          "dhikrType": "Istighfar / Tawbah",
+          "collection": "Istighfar & Tawbah",
+          "timing": "Morning and evening as reported in the source"
+        },
+        {
+          "ar": "اللَّهُمَّ بِكَ أَصْبَحْنَا، وَبِكَ أَمْسَيْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ، وَإِلَيْكَ النُّشُورُ",
+          "tr": "Allahumma bika asbahna wa bika amsayna...",
+          "en": "O Allah, by You the morning is reached, by You the evening is reached, by You life is given, by You death occurs, and to You is the resurrection.",
+          "src": "Sunan Abi Dawud / Jami at-Tirmidhi - Morning remembrance",
+          "verified": true,
+          "reference": "Abu Dawud; Tirmidhi",
+          "grade": "Hasan"
+        },
+        {
+          "ar": "رَضِيتُ بِاللهِ رَبًّا، وَبِالْإِسْلَامِ دِينًا، وَبِمُحَمَّدٍ ﷺ نَبِيًّا",
+          "tr": "Raditu billahi Rabba, wa bil-Islami dina, wa bi-Muhammadin nabiyya.",
+          "en": "I am pleased with Allah as Lord, Islam as religion, and Muhammad ﷺ as Prophet.",
+          "src": "Hisn al-Muslim 87",
+          "verified": true,
+          "reference": "Hisn al-Muslim 87",
+          "grade": "Hasan"
+        },
+        {
+          "ar": "سُبْحَانَ اللهِ وَبِحَمْدِهِ",
+          "tr": "Subhanallahi wa bihamdih.",
+          "en": "Glory and praise be to Allah.",
+          "src": "Sahih Muslim - Dhikr",
+          "verified": true,
+          "reference": "Sahih Muslim",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "id": "evening",
+      "label": "Evening Azkar",
+      "items": [
+        {
+          "ar": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذِهِ اللَّيْلَةِ وَخَيْرَ مَا بَعْدَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
+          "tr": "Amsayna wa amsal-mulku lillah...",
+          "en": "The evening has come and dominion belongs to Allah. Praise is for Allah. O Lord, protection is sought from laziness, evil old age, punishment of the Fire, and punishment of the grave.",
+          "src": "Sahih Muslim - Evening remembrance",
+          "verified": true,
+          "reference": "Sahih Muslim 2723",
+          "grade": "Sahih"
+        },
+        {
+          "ar": "اللَّهُمَّ بِكَ أَمْسَيْنَا، وَبِكَ أَصْبَحْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ، وَإِلَيْكَ الْمَصِيرُ",
+          "tr": "Allahumma bika amsayna wa bika asbahna...",
+          "en": "O Allah, by You the evening is reached, by You the morning is reached, by You life is given, by You death occurs, and to You is the final return.",
+          "src": "Sunan Abi Dawud / Jami at-Tirmidhi - Evening remembrance",
+          "verified": true,
+          "reference": "Abu Dawud; Tirmidhi",
+          "grade": "Hasan"
+        },
+        {
+          "ar": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+          "tr": "A'udhu bikalimatillahit-tammati min sharri ma khalaq.",
+          "en": "I seek refuge in the perfect words of Allah from the evil of what He created.",
+          "src": "Hisn al-Muslim 216 / Sahih Muslim",
+          "verified": true,
+          "reference": "Hisn al-Muslim 216; Sahih Muslim 2708",
+          "grade": "Sahih"
+        },
+        {
+          "ar": "اللَّهُمَّ مَا أَمْسَى بِي مِنْ نِعْمَةٍ أَوْ بِأَحَدٍ مِنْ خَلْقِكَ فَمِنْكَ وَحْدَكَ لَا شَرِيكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ",
+          "tr": "Allahumma ma amsa bi min ni'matin aw bi-ahadin min khalqik...",
+          "en": "O Allah, whatever blessing has reached me or any of Your creation this evening is from You alone with no partner. To You is praise and thanks.",
+          "src": "Hisn al-Muslim - Evening gratitude",
+          "verified": true,
+          "reference": "Hisn al-Muslim 81 variant",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "after_salah",
+      "label": "After Fard Salah Azkar",
+      "items": [
+        {
+          "name": "Istighfar",
+          "ar": "أَسْتَغْفِرُ اللهَ",
+          "tr": "Astaghfirullah.",
+          "en": "I seek the forgiveness of Allah.",
+          "src": "Sahih Muslim 591 / Riyad as-Salihin 1876",
+          "verified": true,
+          "reference": "Sahih Muslim 591; Riyad as-Salihin 1876",
+          "grade": "Sahih",
+          "rep": "3 times after every Fard Salah",
+          "timing": "3 times after every Fard Salah",
+          "dhikrType": "Istighfar / Tawbah",
+          "collection": "Istighfar & Tawbah"
+        },
+        {
+          "name": "Allahumma Antas-Salam",
+          "ar": "اللَّهُمَّ أَنْتَ السَّلَامُ، وَمِنْكَ السَّلَامُ، تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+          "tr": "Allahumma Antas-Salam, wa minkas-salam, tabarakta ya Dhal-Jalali wal-Ikram.",
+          "en": "O Allah, You are Peace and from You comes peace. Blessed are You, Owner of Majesty and Honour.",
+          "src": "Sahih Muslim 591 / Riyad as-Salihin 1876",
+          "verified": true,
+          "reference": "Sahih Muslim 591; Riyad as-Salihin 1876",
+          "grade": "Sahih",
+          "rep": "1 time after every Fard Salah",
+          "timing": "1 time after every Fard Salah",
+          "dhikrType": "Dua"
+        },
+        {
+          "name": "Tahlil with Allahumma La Mani'a",
+          "ar": "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+          "tr": "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamd, wa huwa ala kulli shay'in qadir. Allahumma la mani'a lima a'tayt, wa la mu'tiya lima mana't, wa la yanfa'u dhal-jaddi minkal-jadd.",
+          "en": "There is none worthy of worship except Allah alone, with no partner. His is dominion and praise, and He is able to do all things. O Allah, none can withhold what You give, none can give what You withhold, and no wealth or status benefits against You.",
+          "src": "Hisn al-Muslim 67; Sahih al-Bukhari 844; Sahih Muslim 593e",
+          "verified": true,
+          "reference": "Hisn al-Muslim 67; Sahih al-Bukhari 844; Sahih Muslim 593e",
+          "grade": "Sahih",
+          "rep": "1 time after every Fard Salah",
+          "timing": "1 time after every Fard Salah",
+          "dhikrType": "Tahlil"
+        },
+        {
+          "name": "Tahlil, Hawqalah, and Sincerity",
+          "ar": "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ، لَا إِلَهَ إِلَّا اللهُ، وَلَا نَعْبُدُ إِلَّا إِيَّاهُ، لَهُ النِّعْمَةُ، وَلَهُ الْفَضْلُ، وَلَهُ الثَّنَاءُ الْحَسَنُ، لَا إِلَهَ إِلَّا اللهُ، مُخْلِصِينَ لَهُ الدِّينَ، وَلَوْ كَرِهَ الْكَافِرُونَ",
+          "tr": "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamd, wa huwa ala kulli shay'in qadir. La hawla wa la quwwata illa billah. La ilaha illallah, wa la na'budu illa iyyah, lahun-ni'matu wa lahul-fadl, wa lahuth-thana'ul-hasan. La ilaha illallah, mukhlisina lahud-din, wa law karihal-kafirun.",
+          "en": "There is none worthy of worship except Allah alone, with no partner. His is dominion and praise, and He is able to do all things. There is no might and no power except with Allah. We worship none but Him; His is the favour, bounty, and excellent praise. We are sincere to Him in religion, even if the disbelievers dislike it.",
+          "src": "Hisn al-Muslim 68; Sahih Muslim 1/415",
+          "verified": true,
+          "reference": "Hisn al-Muslim 68; Muslim 1/415",
+          "grade": "Sahih",
+          "rep": "1 time after every Fard Salah",
+          "timing": "1 time after every Fard Salah",
+          "dhikrType": "Tahlil / Hawqalah"
+        },
+        {
+          "name": "Tasbih",
+          "ar": "سُبْحَانَ اللهِ",
+          "tr": "Subhanallah.",
+          "en": "Glory be to Allah.",
+          "src": "Hisn al-Muslim 69; Sahih Muslim 597",
+          "verified": true,
+          "reference": "Hisn al-Muslim 69; Sahih Muslim 597",
+          "grade": "Sahih",
+          "rep": "33 times after every Fard Salah",
+          "timing": "33 times after every Fard Salah",
+          "dhikrType": "Tasbih"
+        },
+        {
+          "name": "Tahmid",
+          "ar": "الْحَمْدُ لِلَّهِ",
+          "tr": "Alhamdulillah.",
+          "en": "All praise is for Allah.",
+          "src": "Hisn al-Muslim 69; Sahih Muslim 597",
+          "verified": true,
+          "reference": "Hisn al-Muslim 69; Sahih Muslim 597",
+          "grade": "Sahih",
+          "rep": "33 times after every Fard Salah",
+          "timing": "33 times after every Fard Salah",
+          "dhikrType": "Tahmid"
+        },
+        {
+          "name": "Takbir",
+          "ar": "اللهُ أَكْبَرُ",
+          "tr": "Allahu Akbar.",
+          "en": "Allah is the Greatest.",
+          "src": "Hisn al-Muslim 69; Sahih Muslim 597",
+          "verified": true,
+          "reference": "Hisn al-Muslim 69; Sahih Muslim 597",
+          "grade": "Sahih",
+          "rep": "33 times after every Fard Salah",
+          "timing": "33 times after every Fard Salah",
+          "dhikrType": "Takbir"
+        },
+        {
+          "name": "Completion of 100",
+          "ar": "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "tr": "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamd, wa huwa ala kulli shay'in qadir.",
+          "en": "There is none worthy of worship except Allah alone, with no partner. His is dominion and praise, and He is able to do all things.",
+          "src": "Hisn al-Muslim 69; Sahih Muslim 597",
+          "verified": true,
+          "reference": "Hisn al-Muslim 69; Sahih Muslim 597",
+          "grade": "Sahih",
+          "rep": "1 time after Tasbih, Tahmid, and Takbir",
+          "timing": "1 time after Tasbih, Tahmid, and Takbir",
+          "dhikrType": "Tahlil"
+        },
+        {
+          "name": "Ayat al-Kursi",
+          "ar": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+          "tr": "Allahu la ilaha illa Huwal-Hayyul-Qayyum...",
+          "en": "Allah, there is none worthy of worship except Him, the Ever-Living, the Sustainer. Neither drowsiness nor sleep overtakes Him. His is whatever is in the heavens and the earth.",
+          "src": "Quran 2:255; Bulugh al-Maram 220",
+          "verified": true,
+          "reference": "Quran 2:255; Bulugh al-Maram Book 2 Hadith 220",
+          "grade": "Quran / Sahih by Ibn Hibban as cited in Bulugh al-Maram",
+          "rep": "1 time after every Fard Salah",
+          "timing": "1 time after every Fard Salah",
+          "dhikrType": "Quran"
+        },
+        {
+          "name": "Surah al-Ikhlas",
+          "ar": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ، قُلْ هُوَ اللهُ أَحَدٌ، اللهُ الصَّمَدُ، لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+          "tr": "Bismillahir-Rahmanir-Rahim. Qul huwallahu ahad. Allahus-samad. Lam yalid wa lam yulad. Wa lam yakun lahu kufuwan ahad.",
+          "en": "In the Name of Allah, the Most Gracious, the Most Merciful. Say: He is Allah, One; Allah, the Eternal Refuge. He neither begets nor is born, and none is comparable to Him.",
+          "src": "Quran 112; Hisn al-Muslim 70; Sunan Abi Dawud 1523",
+          "verified": true,
+          "reference": "Quran 112; Hisn al-Muslim 70; Sunan Abi Dawud 1523",
+          "grade": "Quran / Sahih",
+          "rep": "1 time after every Fard Salah; 3 times after Fajr and Maghrib",
+          "timing": "1 time after every Fard Salah; 3 times after Fajr and Maghrib",
+          "dhikrType": "Quran"
+        },
+        {
+          "name": "Surah al-Falaq",
+          "ar": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ، قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ، مِنْ شَرِّ مَا خَلَقَ، وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ، وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ، وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+          "tr": "Bismillahir-Rahmanir-Rahim. Qul a'udhu bi Rabbil-falaq. Min sharri ma khalaq. Wa min sharri ghasiqin idha waqab. Wa min sharrin-naffathati fil-'uqad. Wa min sharri hasidin idha hasad.",
+          "en": "In the Name of Allah, the Most Gracious, the Most Merciful. Say: I seek refuge in the Lord of daybreak from the evil of what He created, from the evil of darkness when it settles, from the evil of those who blow in knots, and from the evil of an envier when he envies.",
+          "src": "Quran 113; Hisn al-Muslim 70; Sunan Abi Dawud 1523",
+          "verified": true,
+          "reference": "Quran 113; Hisn al-Muslim 70; Sunan Abi Dawud 1523",
+          "grade": "Quran / Sahih",
+          "rep": "1 time after every Fard Salah; 3 times after Fajr and Maghrib",
+          "timing": "1 time after every Fard Salah; 3 times after Fajr and Maghrib",
+          "dhikrType": "Quran"
+        },
+        {
+          "name": "Surah an-Nas",
+          "ar": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ، قُلْ أَعُوذُ بِرَبِّ النَّاسِ، مَلِكِ النَّاسِ، إِلَهِ النَّاسِ، مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ، الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ، مِنَ الْجِنَّةِ وَالنَّاسِ",
+          "tr": "Bismillahir-Rahmanir-Rahim. Qul a'udhu bi Rabbin-nas. Malikin-nas. Ilahin-nas. Min sharril-waswasil-khannas. Alladhi yuwaswisu fi sudurin-nas. Minal-jinnati wan-nas.",
+          "en": "In the Name of Allah, the Most Gracious, the Most Merciful. Say: I seek refuge in the Lord of mankind, the King of mankind, the God of mankind, from the evil of the retreating whisperer who whispers into the hearts of mankind, from among jinn and mankind.",
+          "src": "Quran 114; Hisn al-Muslim 70; Sunan Abi Dawud 1523",
+          "verified": true,
+          "reference": "Quran 114; Hisn al-Muslim 70; Sunan Abi Dawud 1523",
+          "grade": "Quran / Sahih",
+          "rep": "1 time after every Fard Salah; 3 times after Fajr and Maghrib",
+          "timing": "1 time after every Fard Salah; 3 times after Fajr and Maghrib",
+          "dhikrType": "Quran"
+        },
+        {
+          "name": "Dua for Dhikr, Shukr, and Worship",
+          "ar": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبَادَتِكَ",
+          "tr": "Allahumma a'inni ala dhikrika, wa shukrika, wa husni 'ibadatik.",
+          "en": "O Allah, help me remember You, thank You, and worship You in the best manner.",
+          "src": "Hisn al-Muslim 59; Abu Dawud; An-Nasa'i; Riyad as-Salihin 1422",
+          "verified": true,
+          "reference": "Hisn al-Muslim 59; Abu Dawud 2/86; An-Nasa'i 3/53; Riyad as-Salihin 1422",
+          "grade": "Sahih",
+          "rep": "1 time after every Salah",
+          "timing": "1 time after every Salah",
+          "dhikrType": "Dua"
+        },
+        {
+          "name": "Special Tahlil after Fajr and Maghrib",
+          "ar": "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "tr": "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamd, yuhyi wa yumit, wa huwa ala kulli shay'in qadir.",
+          "en": "There is none worthy of worship except Allah alone, with no partner. His is dominion and praise. He gives life and causes death, and He is able to do all things.",
+          "src": "Hisn al-Muslim 72; At-Tirmidhi; Ahmad",
+          "verified": true,
+          "reference": "Hisn al-Muslim 72; At-Tirmidhi 5/515; Ahmad 4/227",
+          "grade": "Hasan / checked in Zad al-Ma'ad as cited in Hisn al-Muslim",
+          "rep": "10 times after Fajr and Maghrib",
+          "timing": "10 times after Fajr and Maghrib",
+          "dhikrType": "Tahlil"
+        },
+        {
+          "name": "Fajr Dua for Knowledge, Rizq, and Accepted Deeds",
+          "ar": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا",
+          "tr": "Allahumma inni as'aluka 'ilman nafi'an, wa rizqan tayyiban, wa 'amalan mutaqabbalan.",
+          "en": "O Allah, I ask You for beneficial knowledge, good provision, and accepted deeds.",
+          "src": "Sunan Ibn Majah 925",
+          "verified": true,
+          "reference": "Sunan Ibn Majah 925",
+          "grade": "Hadith-based; graded Hasan/Sahih in common hadith checking",
+          "rep": "1 time after Fajr Salah",
+          "timing": "1 time after Fajr Salah",
+          "dhikrType": "Dua"
+        },
+        {
+          "name": "Alternate Short Tasbih Formula",
+          "ar": "سُبْحَانَ اللهِ، الْحَمْدُ لِلَّهِ، اللهُ أَكْبَرُ",
+          "tr": "Subhanallah, Alhamdulillah, Allahu Akbar.",
+          "en": "Glory be to Allah, praise be to Allah, and Allah is the Greatest.",
+          "src": "Sahih al-Bukhari 6329",
+          "verified": true,
+          "reference": "Sahih al-Bukhari 6329",
+          "grade": "Sahih",
+          "rep": "10 times each after every Fard Salah; authentic alternative, not combined with the 33-count formula",
+          "timing": "10 times each after every Fard Salah; authentic alternative, not combined with the 33-count formula",
+          "dhikrType": "Tasbih / Tahmid / Takbir"
+        }
+      ]
+    },
+    {
+      "id": "before_sleep",
+      "label": "Before Sleep Azkar",
+      "items": [
+        {
+          "ar": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+          "tr": "Bismika Allahumma amutu wa ahya.",
+          "en": "In Your name, O Allah, I die and I live.",
+          "src": "Sahih al-Bukhari 6324",
+          "verified": true,
+          "reference": "Sahih al-Bukhari 6324",
+          "grade": "Sahih"
+        },
+        {
+          "ar": "اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ",
+          "tr": "Allahumma aslamtu nafsi ilayk...",
+          "en": "O Allah, I submit myself to You, entrust my affair to You, turn my face to You, and rely upon You in hope and fear. There is no refuge from You except with You.",
+          "src": "Sahih al-Bukhari / Sahih Muslim - Before sleep",
+          "verified": true,
+          "reference": "Bukhari; Muslim",
+          "grade": "Sahih"
+        },
+        {
+          "ar": "قُلْ هُوَ اللهُ أَحَدٌ، اللهُ الصَّمَدُ، لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ. قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ، مِنْ شَرِّ مَا خَلَقَ، وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ، وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ، وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ. قُلْ أَعُوذُ بِرَبِّ النَّاسِ، مَلِكِ النَّاسِ، إِلَهِ النَّاسِ، مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ، الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ، مِنَ الْجِنَّةِ وَالنَّاسِ",
+          "tr": "Al-Ikhlas, Al-Falaq, and An-Nas.",
+          "en": "Recitation of the three protective surahs before sleep, followed by blowing into the hands and wiping over the body, is reported in Sahih al-Bukhari.",
+          "src": "Quran 112, 113, 114 / Sahih al-Bukhari",
+          "verified": true,
+          "reference": "Quran 112-114; Bukhari",
+          "grade": "Quran / Sahih"
+        },
+        {
+          "ar": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+          "tr": "Allahumma qini adhabaKa yawma tab'athu ibadak.",
+          "en": "O Allah, protect me from Your punishment on the Day You resurrect Your servants.",
+          "src": "Sunan Abi Dawud / Jami at-Tirmidhi - Before sleep",
+          "verified": true,
+          "reference": "Abu Dawud; Tirmidhi",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "wake_up",
+      "label": "Wake Up Azkar",
+      "items": [
+        {
+          "ar": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُورُ",
+          "tr": "Alhamdu lillahil-ladhi ahyana ba'da ma amatana wa ilayhin-nushur.",
+          "en": "All praise is for Allah who gave us life after causing us to die, and to Him is the resurrection.",
+          "src": "Sahih al-Bukhari 6324",
+          "verified": true,
+          "reference": "Sahih al-Bukhari 6324",
+          "grade": "Sahih"
+        },
+        {
+          "ar": "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، الْحَمْدُ لِلَّهِ، وَسُبْحَانَ اللهِ، وَلَا إِلَهَ إِلَّا اللهُ، وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+          "tr": "La ilaha illallahu wahdahu la sharika lah...",
+          "en": "Reported for a person who wakes during the night and remembers Allah.",
+          "src": "Sahih al-Bukhari - Waking during night",
+          "verified": true,
+          "reference": "Sahih al-Bukhari",
+          "grade": "Sahih"
+        },
+        {
+          "ar": "الْحَمْدُ لِلَّهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي بِذِكْرِهِ",
+          "tr": "Alhamdu lillahil-ladhi afani fi jasadi wa radda alayya ruhi wa adhina li bi-dhikrih.",
+          "en": "All praise is for Allah who granted well-being to my body, returned my soul to me, and permitted me to remember Him.",
+          "src": "Jami at-Tirmidhi - Upon waking",
+          "verified": true,
+          "reference": "Jami at-Tirmidhi",
+          "grade": "Hasan"
+        }
+      ]
+    },
+    {
+      "id": "protection",
+      "label": "Protection Azkar",
+      "items": [
+        {
+          "ar": "بِسْمِ اللهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ، وَهُوَ السَّمِيعُ الْعَلِيمُ",
+          "tr": "Bismillahil-ladhi la yadurru ma'asmihi shay'un fil-ardi wa la fis-sama'i wa huwas-Sami'ul-Alim.",
+          "en": "In the name of Allah, with whose name nothing on earth or in the heaven can harm, and He is the All-Hearing, the All-Knowing.",
+          "src": "Hisn al-Muslim - Morning and evening protection",
+          "verified": true,
+          "reference": "Hisn al-Muslim 86; Abu Dawud; Tirmidhi",
+          "grade": "Hasan"
+        },
+        {
+          "ar": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ",
+          "tr": "Allahumma inni a'udhu bika an ushrika bika wa ana a'lam, wa astaghfiruka lima la a'lam.",
+          "en": "O Allah, refuge is sought in You from knowingly associating anything with You, and Your forgiveness is sought for what is not known.",
+          "src": "Saheeh al-Jami 3731 - Protection from shirk",
+          "verified": true,
+          "reference": "Saheeh al-Jami 3731",
+          "grade": "Sahih"
+        },
+        {
+          "ar": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ غَضَبِهِ وَعِقَابِهِ، وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّيَاطِينِ، وَأَنْ يَحْضُرُونِ",
+          "tr": "A'udhu bikalimatillahit-tammati min ghadabihi wa iqabihi...",
+          "en": "I seek refuge in the perfect words of Allah from His anger, His punishment, the evil of His servants, and from the whispers and presence of devils.",
+          "src": "Hisn al-Muslim - Protection during sleep/fear",
+          "verified": true,
+          "reference": "Hisn al-Muslim; Abu Dawud",
+          "grade": "Hasan"
+        },
+        {
+          "ar": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+          "tr": "Allahumma inni a'udhu bika minal-hammi wal-hazan...",
+          "en": "O Allah, refuge is sought in You from worry and grief, incapacity and laziness, miserliness and cowardice, burden of debt, and being overpowered by people.",
+          "src": "Hisn al-Muslim 137 / Sahih al-Bukhari",
+          "verified": true,
+          "reference": "Hisn al-Muslim 137; Sahih al-Bukhari",
+          "grade": "Sahih"
+        }
+      ]
+    }
+  ]
+}

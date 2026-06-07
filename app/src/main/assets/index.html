@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Azkar TV Display</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <div id="shift">
+
+    <!-- Header -->
+    <header id="topbar">
+      <div class="brand">
+        <svg class="logo" viewBox="0 0 48 48"><circle cx="24" cy="24" r="24" fill="var(--accent)"/><path fill="#f4e9c9" d="M31 24a10 10 0 1 1-6.7-9.4A8 8 0 1 0 31 24z"/><path fill="#e7c66b" d="M33 17l1 2.4 2.6.2-2 1.7.6 2.5-2.2-1.3-2.2 1.3.6-2.5-2-1.7 2.6-.2z"/></svg>
+        <span class="name">Azkar TV Display</span>
+      </div>
+      <div class="topright">
+        <span class="status"><span id="net-dot" class="dot"></span><span id="net-label">…</span></span>
+        <span class="sep">|</span>
+        <span id="hdr-date">—</span>
+        <button id="gear" class="iconbtn focusable" aria-label="Settings" title="Settings">
+          <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3.2"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.9l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.9-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.9.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.9 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.9l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.9.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.9-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.9V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>
+        </button>
+        <span id="hdr-time">—</span>
+      </div>
+    </header>
+
+    <!-- Single content card -->
+    <main id="stage">
+      <div class="typetabs" id="typetabs">
+        <button class="tab focusable" data-type="azkar">Azkar</button>
+        <button class="tab focusable" data-type="duas">Duas</button>
+        <button class="tab focusable" data-type="kalima">Kalima</button>
+      </div>
+
+      <div class="card focusable" id="card" data-type="azkar" tabindex="0" aria-label="Azkar content card">
+        <div class="card-head">
+          <div class="card-ic" id="card-ic"></div>
+          <div class="card-titles">
+            <span class="card-title" id="card-title"></span>
+            <span class="card-sub" id="card-sub"></span>
+          </div>
+        </div>
+        <div class="chips" id="chips"></div>
+        <div class="card-body" id="body"></div>
+        <div class="card-foot">
+          <div class="foot-left">
+            <button class="fav-btn focusable" id="fav-toggle" aria-label="Add favorite" title="Add favorite">☆</button>
+            <span class="foot-pos" id="foot-pos"></span>
+          </div>
+          <span class="foot-btns">
+            <button class="btn focusable" id="prev">‹ Prev</button>
+            <button class="btn focusable" id="pause">❚❚ Pause</button>
+            <button class="btn focusable" id="next">Next ›</button>
+            <button class="btn focusable" id="fav-view">★ Favorites</button>
+            <button class="btn primary focusable" id="viewall">View All</button>
+          </span>
+        </div>
+      </div>
+    </main>
+
+    <!-- Thin bottom Salah ribbon -->
+    <section id="salah" aria-label="Compact Salah ribbon">
+      <div class="ribbon-cell">
+        <span class="ribbon-label">Current</span>
+        <strong class="ribbon-name" id="current-name">—</strong>
+        <span class="ribbon-sub" id="current-status">—</span>
+      </div>
+      <span class="ribbon-sep"></span>
+      <div class="ribbon-cell">
+        <span class="ribbon-label">Next</span>
+        <strong class="ribbon-name" id="next-name">—</strong>
+        <span class="ribbon-sub" id="next-time">--:--</span>
+      </div>
+      <span class="ribbon-sep"></span>
+      <div class="ribbon-cell">
+        <span class="ribbon-label">Countdown</span>
+        <strong id="countdown">--:--:--</strong>
+      </div>
+      <span class="ribbon-location" id="loc-label">Current Location</span>
+    </section>
+
+    <!-- Tajweed legend -->
+    <div id="legend">
+      <span class="lg"><span class="sw" style="background:var(--tj-ghunnah)"></span>Ghunnah</span>
+      <span class="lg"><span class="sw" style="background:var(--tj-qalqalah)"></span>Qalqalah</span>
+      <span class="lg"><span class="sw" style="background:var(--tj-madd)"></span>Madd</span>
+      <span class="lg"><span class="sw" style="background:var(--tj-idgham)"></span>Idgham</span>
+      <span class="lg"><span class="sw" style="background:var(--tj-ikhfa)"></span>Ikhfa</span>
+      <span class="lg"><span class="sw" style="background:var(--tj-iqlab)"></span>Iqlab</span>
+    </div>
+
+    <!-- Hint bar -->
+    <div id="hint">
+      <span><span class="key">◀▶</span> categories on card</span>
+      <span><span class="key">▲▼</span> scroll / navigate</span>
+      <span><span class="key">OK</span> select</span>
+      <span><span class="key">★</span> favorite</span>
+      <span><span class="key">Back</span> close</span>
+    </div>
+  </div>
+
+  <!-- Prayer alert -->
+  <div id="alert">
+    <div class="a-ic">🕌</div>
+    <div class="a-title">It is time for</div>
+    <div class="a-name" id="alert-name"></div>
+    <div class="a-ar" id="alert-ar"></div>
+    <div class="a-sub">Hayya ʿalā ṣ-ṣalāh — press any key to dismiss</div>
+  </div>
+
+  <!-- View-all / Favorites overlay -->
+  <div id="overlay">
+    <div id="ov-head"><span id="ov-title"></span><span id="ov-sub"></span></div>
+    <div id="ov-list"></div>
+    <div id="ov-foot">Press OK on an item to open it, or Back to close</div>
+  </div>
+
+  <!-- Settings panel -->
+  <div id="settings">
+    <div class="panel-inner">
+      <div class="panel-head">
+        <span class="panel-title">Settings</span>
+        <div class="panel-actions">
+          <span id="set-status">Changes apply only after Save &amp; Apply.</span>
+          <button class="btn primary focusable" id="set-save">Save &amp; Apply</button>
+          <button class="btn focusable" id="set-close">Close ✕</button>
+        </div>
+      </div>
+
+      <div class="settings-grid">
+        <div class="set-group">
+          <div class="set-label">Rotation Timer</div>
+          <div class="set-row" id="timer-presets">
+            <button class="opt focusable" data-min="1">1 min</button>
+            <button class="opt focusable" data-min="2">2 min</button>
+            <button class="opt focusable" data-min="3">3 min</button>
+            <button class="opt focusable" data-min="4">4 min</button>
+            <button class="opt focusable" data-min="5">5 min</button>
+          </div>
+          <div class="set-row">
+            <span class="set-name">Custom seconds</span>
+            <button class="btn focusable" id="cust-dn">−</button>
+            <span class="set-val" id="cust-val">60</span>
+            <button class="btn focusable" id="cust-up">+</button>
+            <button class="btn focusable" id="cust-apply">Set custom</button>
+          </div>
+        </div>
+
+        <div class="set-group">
+          <div class="set-label">Theme</div>
+          <div class="set-row" id="theme-row">
+            <button class="opt focusable" data-theme="light">Light</button>
+            <button class="opt focusable" data-theme="dark">Dark</button>
+            <button class="opt focusable" data-theme="green">Green Islamic</button>
+            <button class="opt focusable" data-theme="goldnavy">Gold &amp; Navy</button>
+          </div>
+        </div>
+
+        <div class="set-group">
+          <div class="set-label">Font Sizes</div>
+          <div class="set-row"><span class="set-name">Arabic</span>
+            <button class="btn focusable" data-font="ar" data-d="-1">A−</button><span class="set-val" id="ar-pct">100%</span><button class="btn focusable" data-font="ar" data-d="1">A+</button></div>
+          <div class="set-row"><span class="set-name">Transliteration</span>
+            <button class="btn focusable" data-font="tr" data-d="-1">A−</button><span class="set-val" id="tr-pct">100%</span><button class="btn focusable" data-font="tr" data-d="1">A+</button></div>
+          <div class="set-row"><span class="set-name">Translation</span>
+            <button class="btn focusable" data-font="en" data-d="-1">A−</button><span class="set-val" id="en-pct">100%</span><button class="btn focusable" data-font="en" data-d="1">A+</button></div>
+        </div>
+
+        <div class="set-group wide">
+          <div class="set-label">Display</div>
+          <div class="set-row toggles">
+            <button class="toggle focusable" data-tog="autoRotate"></button>
+            <button class="toggle focusable" data-tog="rotateType"></button>
+            <button class="toggle focusable" data-tog="showTranslit"></button>
+            <button class="toggle focusable" data-tog="showSalah"></button>
+            <button class="toggle focusable" data-tog="showChips"></button>
+            <button class="toggle focusable" data-tog="tajweed"></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
